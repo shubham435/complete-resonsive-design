@@ -58,7 +58,7 @@
     position: relative;
     width: 36px;
     height: 28px;
-    background: url(assets/toggle.png);
+    background: url(toggle.png);
     background-size: cover;
     cursor: pointer;
 }
@@ -87,7 +87,7 @@
     font-size: 22px;
 }
 .imgBox{
-    background: url(assets/window.jpg);
+    background: url(window.jpg);
     width: 50%;
     background-size: cover;
     background-position: center;
