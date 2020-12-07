@@ -1,1 +1,1 @@
-# complete-resonsive-design
+# complete-responsive-design
